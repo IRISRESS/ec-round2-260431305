@@ -1,0 +1,19 @@
+build
+mx.scratch
+!.settings
+# 编译输出目录
+build/
+Debug/
+Release/
+
+# VS Code 配置
+.vscode/
+
+# CubeMX 自动生成的垃圾文件
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
