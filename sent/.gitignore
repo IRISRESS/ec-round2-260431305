@@ -1,0 +1,16 @@
+build
+mx.scratch
+!.settings
+# 构建产物
+Debug/
+Release/
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+
+# IDE配置
+.vscode/
+.settings/
